@@ -4,6 +4,28 @@
 **world**
 
 ***helloworld***
+
+~~yogitha~~
+
+__akkineni__
+
+:cat:
+
+:blush:
+
+:anchor:
+
+:apple:
+
+<!--this is comment-->
+
+- [x] eat
+- [x] sleep
+- [x] repeat
+
+- [ ] Bitch
+- [ ] WTF
+
 * Fruits
   * Kiwi
   * strawberry
@@ -20,3 +42,10 @@ S.N0|Name|Age|Place
 1|Yogitha|18|Vja
 2|Devi|17|Vja
 3|Nikki|17|Vja
+
+WTF[^1].
+
+[^1]:my reference
+:h
+~~hi~~
+
